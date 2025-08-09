@@ -1,5 +1,4 @@
 # AgriML
 
-ml models
 
 
