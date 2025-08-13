@@ -1,4 +1,3 @@
 # AgriML
 
-model 
 
