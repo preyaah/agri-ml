@@ -39,8 +39,3 @@ All models achieve an accuracy of approximately **90%**, providing reliable pred
 - Input soil data or images to get model predictions for soil tilling need, pest presence, or disease detection.
 - Extend or customize the models based on your agricultural datasets and requirements.
 
-## Contributing
-Contributions and improvements are welcome! Please fork the repository, make your changes on a new branch, and submit a pull request.
-
-## License
-This project currently does not have a license; please contact the maintainer for details.
