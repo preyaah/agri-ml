@@ -37,7 +37,6 @@ All models achieve an accuracy of approximately **90%**, providing reliable pred
    ```
    pip install -r requirements.txt
    ```
-   *(Or install manually if requirements.txt not present)*
 4. Run the Streamlit app:
    ```
    streamlit run app.py
@@ -49,8 +48,3 @@ All models achieve an accuracy of approximately **90%**, providing reliable pred
 - Upload leaf images to identify crop diseases.
 - The app shows interactive predictions with recommendations.
 
-## Contributing
-Contributions and improvements are welcome! Please fork the repository, make your changes on a new branch, and submit a pull request.
-
-## License
-This project currently does not have a license; please contact the maintainer for details.
